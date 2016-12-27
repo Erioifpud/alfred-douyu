@@ -27,7 +27,7 @@
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>DouyuInfo</string>
+	<string>DouyuLive</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -52,7 +52,7 @@
 				<key>runningsubtext</key>
 				<string>loading...</string>
 				<key>script</key>
-				<string>python DouyuInfo.py </string>
+				<string>python DouyuLive.py </string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -60,7 +60,7 @@
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
-				<string>Douyu info</string>
+				<string>Douyu live</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
